@@ -27,17 +27,20 @@ This project demonstrates how **Large Language Models (LLMs)** can be safely com
 
 ### High-Level Architecture
 
-User Uploads Document
-↓
-Document Chunking
-↓
-Embeddings + Vector Database
-↓
-Hybrid Retrieval (BM25 + Vector Search)
-↓
-Cross-Encoder Reranking
-↓
-LLM Generates Grounded Answer
+## 🧠 System Workflow
+
+User Uploads Document  
+↓  
+Document Chunking  
+↓  
+Embeddings + Vector Database  
+↓  
+Hybrid Retrieval (BM25 + Vector Search)  
+↓  
+Cross-Encoder Reranking  
+↓  
+LLM Generates Grounded Answer  
+
 
 
 
